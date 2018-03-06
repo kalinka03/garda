@@ -1,0 +1,397 @@
+@media (max-width : 1880px) {
+.section-garda-last-recreat{
+	background-position: center;
+}
+.quest-recreat {
+    margin-top: -25px;
+}
+.city-quest .sity-question {
+    margin-top: 35px;
+    margin-bottom: 66px;
+    }
+}
+
+
+@media (max-width : 1199px) {
+	.bl {
+    width: 292px;
+}
+	.r-page .interes-block{
+		width: 290px;
+	}
+    .interes-block .interest-info {
+        width: 260px;
+    }
+    .blog-info.interest-info h3 {
+        height: 45px !important;
+    }
+.section-found .found .select-city form select, .section-found .found .select-interesting form select, .section-found .found .select-outher form select{
+	width: 250px;
+}
+.interes-block .interest-info h3{
+	height: 55px;
+}
+  .gmap3 {
+    width: 660px;
+    height: 700px;
+  }
+.section-city-found .backg-map {
+    background-image: url(http://garda/img/city/block3/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    margin-top: -27px;
+}
+.bl .blog-info{
+width: 263px;
+margin-left: 15px;
+}
+.gmap3 {
+    margin-left: 0;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.section-city-found .backg-map .name-cit {
+    width: 236px;
+    background-color: rgba(17, 27, 61, 0.8);
+    }
+    .recreationpage-title{
+	width: 295px;
+}
+.border-line {
+    width: 90%;
+
+}
+}
+
+@media (max-width : 1023px) {
+.section-found .found .select-city form select, .section-found .found .select-interesting form select, .section-found .found .select-outher form select{
+	width: 240px;
+}
+.section-break .break-menu{
+	margin-bottom: 30px;
+}
+.recreationpage-title{
+	width: 294px;
+}
+}
+
+
+@media (min-width : 768px) and (max-width : 991px) {
+	.bl {
+    width: 345px;
+}
+	.r-page .interes-block {
+    width: 220px;
+}
+	.recreation-break .r-p{
+		    margin-bottom: 20px;
+
+	}
+	.r-page{
+		margin-top: 0 !important;
+	}
+	.recreationpage-title {
+    width: 220px;
+}
+	.quest-recreat .row{
+		display: block;
+	}
+.section-found .found .select-city form select, .section-found .found .select-interesting form select, .section-found .found .select-outher form select{
+	width: 180px;
+}
+.city-quest .sity-question {
+	    margin-top: 20px;
+    margin-bottom: 35px;
+}
+.interes-block .interest-info h3{
+	font-size: 16px;
+	}
+	.section-accommodation .container .accommodation-title h2 {
+    margin: 70px auto 30px auto;
+}
+.city-quest .sity-question {
+    margin-top: 25px;
+    margin-bottom: 55px;
+}
+.recreation {
+    margin-top: 95px;
+}
+.section-city-found .backg-map .name-cit {
+width: auto;
+}
+.section-city-found .backg-map .name-cit .city-menu li a {
+    font-size: 12px;
+    color: #fff;
+    padding-right: 20px;
+    }
+    .gmap3 {
+    width: 500px;
+    height: 650px;
+}
+.interes-block .interest-info{
+	width: auto;
+}
+.border-line {
+    margin: 10px;
+    }
+    .blog-picture .sections-blog {
+        width: 660px;
+    }
+    .blog-picture .sections-blog ul li a {
+        padding: 15px 15px;
+    }
+.bl-section{
+    margin-top: 0;}
+	    .bl .blog-info{
+       width: 324px;
+        margin-left: 10px;
+    }
+    .bl .border-line{
+    	width: 94%;
+    }
+
+}
+@media (max-width: 767px) {
+	.interes-block{
+	width: 350px;
+	margin:0 auto;
+}
+	.quest-recreat .row {
+    display: block;
+}
+.blog-picture .sections-blog {
+    width: 590px;
+    }
+    .blog-picture .sections-blog ul li a {
+    padding: 14px 10px;
+}
+.but-bl{
+	margin: 0 auto;
+	    margin-bottom: 55px;
+    margin-top: 85px;
+}
+.r-page .interes-block {
+    margin: 0 auto;
+    margin-bottom: 30px;
+    width: 315px;
+    }
+    .recreationpage-title{
+    	width: 315px;
+    }
+	.section-garda-last-recreat{
+		    margin-top: -325px;
+	}
+	.section-city-found .backg-map .name-cit {
+    width: auto;
+}.section-city-found .backg-map .name-cit .city-menu li a{
+	margin:0 auto;
+	text-align: center;
+}
+.section-city-found .backg-map .name-cit {
+    width: auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    }
+
+
+.section-break .city-block-name, .section-city-info .information-block, .section-found .found-title{
+	    margin-left: 40px;
+}
+.section-city-info .information-block{
+	    margin-top: 40px;
+    margin-bottom: 5px;
+}
+.section-found .found-title {
+    margin-top: 40px;
+    margin-bottom: 35px;
+    }
+.section-found .found .select-city form select, .section-found .found .select-interesting form select, .section-found .found .select-outher form select{
+	width: 150px;
+}
+.section-found .found .select-city{
+	margin-right: 15px;
+}
+.block-picture {
+    margin: 0 auto;
+    }
+    .interes-block .interest-info{
+width: 284px;
+    }
+    .interes-block .interest-info h3 {
+    height: 45px;
+}
+.block-mobile-city{
+	display: block;
+}
+.section-question-city{
+	background: inherit;
+}
+.city-quest{
+	margin-top: 0;
+	margin: 0 auto;
+    text-align: center;
+}
+.city-quest h4{
+	text-align: center;
+}
+.city-quest .sity-question {
+  margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    }
+    .gmap3 {
+    width: 600px;
+}
+.bl{
+	width: 315px;
+	margin: 0 auto;
+}
+}
+
+@media (max-width: 640px) {
+	.blog-picture .sections-blog ul li a:hover{
+		border: inherit;
+	}
+	.sections-blog ul li{
+    padding: 0 12px;
+	}
+	.blog-picture .sections-blog ul li a {
+    padding: 0 0px;
+}
+.blog-picture .sections-blog{
+	width: auto;
+}
+	.gmap3 {
+    width: 430px;
+}
+	.block-mobile-city img{
+		max-width: 100%;
+	}
+.section-break .city-block-name, .section-city-info .information-block, .section-found .found-title{
+	    margin-left: 40px;
+}
+.section-city-info .information-block{
+	    margin-top: 40px;
+    margin-bottom: 5px;
+}
+.section-found .found-title {
+    margin-top: 40px;
+    margin-bottom: 35px;
+    }
+.section-found .found .select-city form select, .section-found .found .select-interesting form select, .section-found .found .select-outher form select{
+	width: 140px;
+}
+.section-found .found{
+	display: block;
+	}
+	.section-found .found .select-city, .section-found .found .select-interesting, .section-found .found .select-outher {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.section-found .found .select-city form select, .section-found .found .select-interesting form select, .section-found .found .select-outher form select {
+    width: 300px;
+}
+    .share{
+width: 195px;
+    margin: 0 auto;
+    }
+.interes-block{
+	width: 315px;
+	margin:0 auto;
+}
+
+}
+
+
+
+
+
+
+@media (max-width: 480px) {
+	.interes-block {
+    width: 290px;
+    margin: 0 auto;
+}
+	.blog-picture .sections-blog {
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+	.blog-picture .sections-blog ul{
+		display: block;
+		margin: 0 auto;
+	}
+	.sections-blog ul li {
+    padding: 3px 0;
+}
+	.bl {
+    width: 290px;
+    margin: 0 auto;
+}
+.interes-block .interest-info {
+    width: 260px;
+}
+	.r-page .interes-block {
+  width: 290px;
+      margin-bottom: 30px;
+}
+.section-city-info .r-p h4 {
+    line-height: 1.0;
+    margin-bottom: 5px;
+}
+	.recreationpage-title{
+		    width: 290px;
+	}
+.section-break .city-block-name h3{
+	font-size: 22px;
+}
+.section-break{
+	background-size: cover;
+}
+.section-break .break-menu {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+header {
+    height: 74px;
+}
+.section-found .found-title h2 span{
+	font-size: 20px;
+}
+.section-found .found-title h2{
+	font-size: 18px;
+}
+.section-found .found .select-city form select, .section-found .found .select-interesting form select, .section-found .found .select-outher form select {
+    width: 230px;
+}
+.recreation {
+    margin-top: 40px;
+    }
+    .city-quest h4{
+    	font-size: 17px;
+    }
+    .share{
+width: 195px;
+    margin: 0 auto;
+    }
+    .section-city-found .backg-map .name-cit .city-menu li a {
+    padding: 5px;
+    font-size: 14px;
+    color: #fff;
+    padding-right: 0;
+}
+.gmap3 {
+    width: 290px;
+    max-width: 100%;
+    }
+    .numbers li a {
+    padding: 8px 10px;
+}
+.numbers:after{
+	left: 295px;
+}
+.numbers:before{
+	    left: 33px;
+}
+}

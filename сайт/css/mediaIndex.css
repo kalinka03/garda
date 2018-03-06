@@ -1,0 +1,2010 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+
+@media (max-width: 1919px){
+/* .search-open form{
+  display: none;
+ }*/
+
+  .section-like-garda {
+ background-image: url("../img/index/block1/backgr.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    }
+    .section-main .container .row .main-info img{
+      margin-left: 0;
+    }
+    .section-menu .menu-upper .search .form-group .default-mobile{
+display: none;
+}
+.video-play {
+    margin-top: -412px;
+    height: 396px;
+  }
+  .section-information{
+        margin-top: -275px;
+  }
+}
+
+       @media (max-width: 1880px){
+        .slider-section{
+          background: inherit;
+        }
+                .video-play {
+    margin-top: -403px;
+    height: 370px;
+  }
+      .section-main .container .row .main-info img{
+      margin-left: 0;
+    }
+  .section-like-garda {
+background-image: url(../img/index/block13/backg2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+        .section-main {
+ background-image: url("../img/index/block1/backgr.png");
+    background-repeat: no-repeat;
+    background-position: center;
+
+  }
+  .section-main{
+    padding-top: 140px;
+  }
+  .main-title{
+    display: none;
+  }
+  .section-main .container .row .main-info{
+      margin-top: -560px;
+  }
+  .blue-block{
+    margin-top: 0;
+  }
+    .section-main .section-mountains{
+      display: none;
+    }
+        .section-menu .menu-upper .search .form-group .default-mobile{
+display: none;
+}
+
+       }
+       @media (max-width: 1600px){
+            .section-main .container .row .main-info img{
+      margin-left: 0;
+    }
+        .video-play {
+    margin-top: -373px;
+    height: 310px;
+        width: 600px;
+  }
+/*          .section-main .container .row .main-info{
+    margin-top: 255px;
+  }*/
+            .section-main .section-mountains{
+      display: none;
+    }
+.slider-section{
+  max-width: 900px;
+}
+        .section-main {
+    background-image: url(../img/index/block1/backgr.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  .main-title{
+    display: none;
+  }
+  .section-like-garda {
+background-image: url(../img/index/block13/backg2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+.arrow-gr .owl-nav .owl-next {
+    background: url(../img/index/block9/arrow-rig.png) no-repeat;
+    float: right;
+    height: 35px;
+    position: absolute;
+    width: 22px;
+    right: -50px;
+    top: 43%;
+  }
+  .arrow-gr .owl-nav .owl-prev {
+    background: url(../img/index/block9/arrow-left.png) no-repeat;
+    height: 33px;
+    left: -6%;
+    position: absolute;
+    top: 43%;
+    width: 22px;
+   }
+   .slider-section{
+    display: none;
+   }
+   .slider-section .slider-tasting{
+    margin: 0 auto;
+   }
+ }
+
+   @media (min-width: 1200px) and (max-width : 1400px){
+
+    .video-play {
+    margin-top: -352px;
+    height: 268px;
+    width: 500px;
+}
+    .section-main .container .row .main-info img{
+      margin-left: 0;
+    }
+      .section-main .container .row .main-info{
+        margin-top: -540px;
+  }
+  .section-main{
+        padding-top: 115px;
+  }
+
+  .main-title{
+    display: none;
+  }
+        .section-main .section-mountains{
+      display: none;
+    }
+
+    .section-main .container .row .main-info .bold{
+      padding-bottom: 36px;
+    }
+      .section-like-garda {
+    
+    background-image: url(../img/index/block13/backg2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+
+}
+@media (max-width : 1199px) {
+  .section-main{
+    margin-bottom: 0;
+  }
+  .section-causes .causes-picture .causes-block .causes-block-title {
+    margin: 30px 20px 20px 10px;
+}
+
+  .main-ten .block-picture{
+    width: auto;
+  }
+      .section-main .container .row .main-info img{
+      margin-left: 0;
+    }
+  .section-collage .container .foto-collage .foto-shopping img{
+    height: 430px;
+  }
+    .section-collage .container .foto-collage .foto-vino{
+      width: 355px;
+  }
+  .section-accommodation{
+    background: inherit;
+  }
+      .section-main .container .row .main-info .bold{
+      padding-bottom: 20px;
+    }
+      .section-information .container .block-info {
+    margin-bottom: 70px;
+}
+  .video-play {
+    margin-top: -332px;
+    height: 300px;
+    width: 550px;
+}
+
+  .section-causes .causes-picture .causes-block .causes-block-title h2 {
+    height: 55px;
+}
+    .section-main .container .row .main-info{
+    margin-top: 240px;
+  }
+/*          .section-main {
+    background-image: url(../img/index/block1/picture-garda.png);
+    background-repeat: no-repeat;
+    background-position: center;
+  }*/
+/*  .section-information{
+    background: none;
+  }*/
+  .main-title{
+    display: none;
+  }
+        .section-main .section-mountains{
+      display: none;
+    }
+
+    .section-main .container .row .main-info{
+      margin-top: 260px;
+    }
+.section-collage .container .foto-collage .foto-museum img {
+    max-width: 100%;
+    height: 200px;
+}
+.main-title{
+  display: none;
+}
+    .section-main .section-mountains{
+        display: none;
+    }
+    .section-main .container .row .main-info{
+        margin-top: -540px;
+    }
+.slider-section {
+    max-width: 890px;
+}
+.arrow-gr .owl-nav .owl-prev{
+  left: -2%;
+}
+.arrow-gr .owl-nav .owl-next{
+  right: -25px;
+}
+    .section-menu .menu-upper .container .menu-upper-main li a {
+        padding: 15px 9px;
+    }
+    .section-menu .lower-menu .container .menu-lower-main li a {
+        padding: 18px 18px;
+    }
+    .section-menu .menu-upper .search .form-group input {
+        width: 175px;
+        height: 38px;
+    }
+    .section-menu .lower-menu .map:before{
+        left: 45px;
+    }
+    .section-recreation .container .recreation-block .name-recreation{
+        font-size: 16px;
+    }
+    .section-main .section-mountains{
+        display: none;
+    }
+    .section-collage .container .foto-collage .foto-sity img {
+    max-width: 100%;
+    height: 435px;
+}
+.section-collage .container .foto-collage .foto-eat img, .section-collage .container .foto-collage .foto-vino img {
+    max-width: 100%;
+    height: 200px;
+    }
+.section-collage .container .foto-collage{
+  margin-bottom: 50px;
+}
+.slider-section{
+  background: inherit;
+}
+  .section-like-garda {
+background-image: url(../img/index/block13/backg2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+.section-information {
+        margin-top: -275px;
+  }
+  .section-information .container .waves {
+      margin-top: 150px;
+  }
+/*  .blue-block {
+    display: none;
+  }*/
+  .vin .information-foto{
+    margin-top: -45px;
+  }
+  .foto-eat .information-foto {
+    margin-top: -34px;
+}
+.section-lake-slider .container .lake-title h2 {
+    margin: 100px auto 25px auto;
+    }
+}
+
+
+
+@media (max-width : 1023px) {
+  .section-collage .container .foto-collage .foto-sity img, .section-collage .container .foto-collage .foto-museum img, .section-collage .container .foto-collage .foto-relation img, .section-collage .container .foto-collage .foto-eat img, .section-collage .container .foto-collage .foto-shopping img{
+    width: auto;
+  }
+  .section-collage .container .foto-collage .foto-vino{
+      width: 355px;
+  }
+  .foto-vino{
+text-align: center;
+    margin: 0 auto;
+  }
+  .information-foto {
+    margin-top: -70px;
+  }
+
+  .left-pad{
+    padding-left: 15px !important; 
+}
+.section-information {
+        margin-top: 0;
+  }
+  .section-information .container .waves {
+    margin-top: -80px;
+  }
+            .section-main {
+    background-image: url(../img/index/block1/picture-garda-laptop.png);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .section-information{
+    background: none;
+  }
+   .default-mobile {
+display: block;
+   }
+.section-menu .menu-upper .search .form-group .default-mobile{
+   opacity: 1;
+   margin-top: -43px;
+   display: block;
+}
+.video-play {
+    margin-top: -230px;
+    height: 221px;
+    width: 450px;
+
+}
+.default-button {
+    display: none;
+}
+
+  .main-title{
+    display: none;
+  }
+        .section-main .section-mountains{
+      display: none;
+    }
+
+    .section-main .container .row .main-info{
+         margin-top: -450px;
+    }
+  .section-collage .container .foto-collage .foto-museum img {
+    max-width: 100%;
+    height: 200px;
+}
+.section-collage .container .foto-collage .foto-eat img, .section-collage .container .foto-collage .foto-vino img {
+    max-width: 100%;
+    height: 200px;
+    }
+.section-collage .container .foto-collage .foto-sity img {
+    max-width: 100%;
+    height: 435px;
+}
+.section-collage .container .foto-collage{
+  margin-bottom: 50px;
+}
+/*      .section-main {
+    background-image: url(../img/index/block1/backgr.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+
+}*/
+.main-title{
+  display: none;
+}
+/*    .section-main .section-mountains{
+        display: none;
+    }*/
+    .section-main .container .row .main-info{
+      margin-top: -530px;
+    }
+.slider-section {
+    max-width: 890px;
+}
+.arrow-gr .owl-nav .owl-prev{
+  left: -2%;
+}
+.arrow-gr .owl-nav .owl-next{
+  right: -25px;
+}
+    .section-menu .menu-upper .container .menu-upper-main li a {
+        padding: 15px 9px;
+    }
+    .section-menu .lower-menu .container .menu-lower-main li a {
+        padding: 22px 18px;
+    }
+    .section-menu .menu-upper .search .form-group input {
+        width: 175px;
+        height: 38px;
+    }
+    .section-menu .lower-menu .map:before{
+        left: 45px;
+    }
+    .section-recreation .container .recreation-block .name-recreation{
+        font-size: 16px;
+    }
+    .section-main .section-mountains{
+        display: none;
+    }
+
+.menu-upper-main, .menu-lower-main, .lower-menu{
+  display: none;
+}
+.logo-mobile, .mobile-menu-trigger{
+  display: block;
+}
+.menu__icon {
+    display: inline-block;
+       margin-top: 30px;
+}
+
+.section-causes .causes-picture .causes-block .causes-block-title h2{
+      height: 55px;
+}
+.section-causes .causes-picture .causes-block {
+    height: 270px;
+    margin-bottom: 50px;
+}
+.slider-section{
+  background: inherit;
+}
+.section-menu .menu-upper {
+    height: 90px;
+}
+.menu__icon {
+    width: 60px;
+    height: 35px;
+
+    }
+    .menu__icon span:nth-child(1) {
+    top: 8px;
+    height: 2px;
+    width: 22px;
+}
+.menu__icon span:nth-child(2), .menu__icon span:nth-child(3) {
+    top: 14px;
+     height: 2px;
+}
+.menu__icon span:nth-child(4) {
+    top: 20px;
+        height: 2px;
+    width: 22px;
+}
+.section-menu .menu-upper .search .form-group input{
+    width: 300px;
+    height: 34px;
+    margin-top: 30px;
+  }
+  .state_open .menu__links{
+    display: block;
+    padding-top: 75px;
+  }
+  .state_open .mobile-second{
+    display: block;
+  }
+  .state_logo{
+    opacity: 0;
+  }
+  .section-menu .menu-upper .state_form .form-group .form-control{
+    opacity: 1;
+    display: block;
+    border: inherit;
+  }
+    .section-menu .menu-upper .state_form .form-group .default{
+    opacity: 1;
+    display: block;
+                          position: absolute;
+          right: 15px;
+          height: 38px;
+          left: 77px;
+          width: 38px;
+          background: inherit;
+          background-image: url("../img/header/search3.png");
+          background-repeat: no-repeat;
+          background-position: center;
+           margin-top: 30px;
+    border: inherit;
+  }
+  .default-button{
+    margin-top: -40px;
+  }
+  .section-menu .menu-upper .state_form .form-group .default-button{
+    display: none;
+  }
+  .section-menu .menu-upper .state_form .form-group input {
+    width: 300px;
+    position: relative;
+    height: 38px;
+    left: -200px;
+}
+
+.section-footer {
+    margin-top: -326px;
+  }
+    .section-like-garda {
+    background-image: url(../img/index/block13/backg3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+    .section-menu .menu-upper .state_form .form-group .default-mobile{
+  display: none;
+  opacity: 0;
+}
+  .section-causes .causes-picture .causes-block .causes-block-title:before{
+    left: 14px;
+  }
+     .section-causes .causes-picture .causes-block .causes-block-title:after{
+    left: 34px;
+  }
+.section-play .container .play-but {
+    margin: 80px auto 80px auto;
+}
+.section-information .container .block-info {
+    margin-bottom: 70px;
+}
+.backg-pict{
+  margin-bottom: 30px;
+}
+.section-like-garda{
+  height: 1000px;
+}
+.menu_state_open span:nth-child(1), .menu_state_open span:nth-child(4){
+display: none;
+}
+.section-lake-slider .container .lake-title h2 {
+    margin: 100px auto 25px auto;
+    }
+.blue-block {
+   opacity: 0;
+}
+}
+
+
+
+/*
+@media (min-width: 992px) and (max-width : 1199px) {
+  .slider-section {
+    max-width: 890px;
+}
+.arrow-gr .owl-nav .owl-prev{
+  left: -2%;
+}
+.arrow-gr .owl-nav .owl-next{
+  right: -25px;
+}
+    .section-menu .menu-upper .container .menu-upper-main li a {
+        padding: 15px 9px;
+    }
+    .section-menu .lower-menu .container .menu-lower-main li a {
+        padding: 22px 18px;
+    }
+    .section-menu .menu-upper .search .form-group input {
+        width: 175px;
+        height: 38px;
+    }
+    .section-menu .lower-menu .map:before{
+        left: 45px;
+    }
+    .section-recreation .container .recreation-block .name-recreation{
+        font-size: 16px;
+    }
+    .section-main .section-mountains{
+        display: none;
+    }
+}*/
+
+/* md */
+/* Medium Devices, Desktops */
+@media (min-width : 768px) and (max-width : 991px) {
+  .main-ten .blog-info {
+    width: 328px !important;
+    margin-left: 10px;
+}
+
+  .main-ten {
+        margin: 0 auto;
+    margin-bottom: 140px;
+    width: 350px;
+
+}
+  .blue-block .show{
+    opacity: 0;
+    display: none;
+  }
+/*  .container-fluid, .row-flex {
+    height: auto !important;
+}*/
+  .foto-term .information-foto, .foto-eat .information-foto{
+        margin-top: -40px;
+        width: 98%;
+  }
+  .vin .information-foto {
+    margin-top: -80px;
+}
+.section-collage .container .foto-collage .information-foto-1{
+  width: 96%;
+}
+.information-foto {
+    width: 97%;
+  }
+  .section-information {
+        margin-top: 0;
+  }
+  .section-information .container .waves {
+        margin-top: -200px;
+  }
+            .section-main {
+     background-image: url(../img/index/block1/picture-garda-mob.png);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .section-information{
+    background: none;
+  }
+  .video-play {
+    margin-top: -304px;
+    height: 300px;
+    width: 450px;
+}
+  .section-causes .causes-picture .causes-block .causes-block-title:before{
+    left: 15px;
+  }
+  .section-causes .causes-picture .causes-block .causes-block-title:after{
+        left: 34px;
+  }
+
+.section-menu .menu-upper .search .form-group .default-mobile{
+   opacity: 1;
+      margin-top: -39px;
+   display: block;
+}
+.default-button {
+    display: none;
+}
+  .main-title{
+    display: none;
+  }
+        .section-main .section-mountains{
+      display: none;
+    }
+
+    .section-main .container .row .main-info{
+      margin-top: 260px;
+    }
+  .footer-info{
+    margin: 0 auto;
+    margin-top: 15px;
+    float: none;
+    display: flex;
+  }
+
+.footer-info .item a {
+    padding-left: 0;
+    margin-right: 25px;
+}
+.section-like-garda {
+    height: 900px;
+        background-size: cover;
+}
+  .section-accommodation .container .sec-hostel .foto-hostel img {
+    width: 100%;
+  }
+  .section-causes .causes-picture .causes-block{
+    height: 265px;
+  }
+  .section-causes .causes-picture .causes-block .causes-block-title h2{
+    height: 55px;
+  }
+  .section-causes{
+    background-size: cover;
+  }
+  .slider-section {
+    max-width: 739px;
+}
+.arrow-gr .owl-nav .owl-prev {
+    left: 2%;
+}
+.arrow-gr .owl-nav .owl-next {
+    right: 10px;
+}
+  .questions img{
+    max-width: 100%;
+  }
+/*      .section-main {
+    background-image: url(../img/index/block1/back-mob.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+
+}*/
+.main-title{
+  display: none;
+}
+    .section-main .section-mountains{
+        display: none;
+    }
+    .section-main .container .row .main-info{
+      margin-top: -450px;
+    }
+.section-recreation .container .recreation-block .name-recreation{
+  font-size: 12px;
+  margin-top: -48px;
+      margin-right: 25px;
+}
+.section-main .container .row .main-info img{
+  margin-left: 0;
+}
+.section-recreation .container .recreation-block .name-sermione{
+      margin-top: -150px;
+}
+.section-causes .causes-picture .causes-block{
+  height: 190px;
+}
+.section-causes .causes-picture .causes-block .causes-block-title h2{
+    font-size: 18px;
+    height: 35px;
+}
+.section-causes .causes-picture .causes-block .causes-block-title .causes-block-info p {
+    font-size: 12px;
+    line-height: 16px;
+}
+.section-causes .causes-picture {
+    padding-bottom: 70px;
+}
+.section-accommodation{
+  background: inherit;
+}
+.foto-hostel{
+    margin: 0 auto;
+    text-align: center;
+  }
+  .section-collage .container .foto-collage .foto-sity{
+    text-align: center;
+  }
+  .section-collage{
+
+    } .container .foto-collage .foto-museum, .section-collage .container .foto-collage .foto-shopping, .section-collage .container .foto-collage .foto-term, .section-collage .container .foto-collage .foto-relation, .section-collage .container .foto-collage .foto-vino, .section-collage .container .foto-collage .foto-eat{
+      text-align: center;
+  }
+  .section-collage .container .foto-collage .foto-term, .section-collage .container .foto-collage .foto-shopping, .section-collage .container .foto-collage .foto-relation, .section-collage .container .foto-collage .foto-vino, .section-collage .container .foto-collage .foto-eat{
+    margin-bottom: 30px;
+  }
+  .section-collage .container .foto-collage .foto-shopping {
+    margin-top: 0;}
+.section-collage .container .foto-collage{
+  margin-bottom: 0;
+}
+.slider-section{
+  background: inherit;
+}
+
+.section-footer {
+        margin-top: -383px;
+  }
+.section-information .container .waves img {
+    padding-top: 140px;
+    }
+    .section-menu .menu-upper .state_form .form-group .default-mobile{
+  display: none;
+  opacity: 0;
+}
+.section-main{
+  height: auto;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+  .recreation .main-ten{
+  margin-bottom: 100px;
+}
+.interes-block .interest-info {
+    width: 283px;
+}
+  .main-ten .interest-info{
+  width: 283px !important;
+}
+    .footer-info{
+      width: 610px;
+    margin: 0 auto;
+    margin-top: 15px;
+    float: none;
+    display: flex;
+  }
+
+.footer-info .item a {
+    padding-left: 0;
+    margin-right: 15px;
+    font-size: 14px;
+}
+  .vin .information-foto {
+    margin-top: -80px;
+}
+   .foto-term .information-foto, .foto-eat .information-foto{
+        margin-top: -40px;
+  }
+  .video-play {
+    margin-top: 0;
+    width: 600px;
+    height: 400px;
+    opacity: 1;
+    z-index: 444;
+  }
+
+  .back-green{
+    display: none;
+  }
+  .section-main{
+  height: auto;
+}
+  .section-causes .causes-picture .causes-block .causes-block-title:before{
+    left: 15px;
+  }
+  .section-causes .causes-picture .causes-block .causes-block-title:after{
+        left: 34px;
+  }
+    .container-fluid, .row-flex{
+    height: auto !important;
+  }
+  .section-causes .causes-picture .causes-block .causes-block-title {
+    margin: 30px 20px 45px 10px;
+}
+
+    .section-information {
+    margin-top: -355px;
+}
+.section-information .container .waves img {
+    padding-top: 140px;
+    }
+    .main-title{
+    display: none;
+  }
+        .section-main .section-mountains{
+      display: none;
+    }
+
+    .section-main .container .row .main-info{
+      margin-top: 260px;
+    }
+      .section-main .section-mountains{
+      display: none;
+    }
+  .section-footer {
+        margin-top: -380px;
+}
+.section-footer .container .footer-logo {
+    margin-top: 20px;
+}
+  .year {
+float: none;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .developer {
+    margin-top: 25px;
+    margin-bottom: 30px;
+float: none;
+    width: 250px;
+    margin: 0 auto;
+    margin-top: 15px;
+    float: none;
+  }
+  .section-menu .menu-upper .state_form .form-group input{
+        left: -90px;
+  }
+  .section-menu .menu-upper .state_form .form-group .default {
+    left: 187px;
+  }
+  .section-menu .menu-upper {
+    height: 88px;
+}
+  .section-collage .container .foto-collage .foto-shopping{
+    margin-top: 0;
+  }
+    .section-collage .container .foto-collage .foto-sity{
+    text-align: center;
+  }
+  .section-collage{
+
+    } .container .foto-collage .foto-museum, .section-collage .container .foto-collage .foto-shopping, .section-collage .container .foto-collage .foto-term, .section-collage .container .foto-collage .foto-relation, .section-collage .container .foto-collage .foto-vino, .section-collage .container .foto-collage .foto-eat{
+      text-align: center;
+  }
+  .section-collage .container .foto-collage .foto-term, .section-collage .container .foto-collage .foto-shopping, .section-collage .container .foto-collage .foto-relation, .section-collage .container .foto-collage .foto-vino, .section-collage .container .foto-collage .foto-eat{
+    margin-bottom: 30px;
+  }
+  .section-collage .container .foto-collage .foto-shopping {
+    margin-top: 0;}
+.section-collage .container .foto-collage{
+  margin-bottom: 0;
+}
+    .questions img{
+    max-width: 100%;
+  }
+      .section-main {
+    background-image: url(../img/index/block1/picture-garda-mob.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+}
+.section-information{
+background: none;
+}
+.section-information .container .waves {
+    margin-top: 140px;
+}
+.main-title{
+  display: none;
+}
+    .section-main .section-mountains{
+        display: none;
+    }
+    .section-main .container .row .main-info{
+          margin-top: -400px;
+    }
+    .section-main .container .row .main-info img{
+      margin-left: 0;
+    }
+.section-accommodation{
+  background: inherit;
+}
+ .section-footer .container .footer-logo {
+    
+        margin: 0 auto;
+        margin-top: 30px;
+    text-align: center;
+}
+.section-footer .container .cosial-icon {
+    margin-top: 20px;
+        margin-bottom: 10px;
+    }
+.section-footer .container .cosial-icon h2{
+    text-align: center;
+    margin: 0 auto;
+}
+/*footer .section-footer .container .cosial-icon {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+*/
+.section-recreation .container .recreation-title h2{
+      margin: 55px auto 25px auto;
+}
+.section-recreation .container .recreation-title .waves {
+    margin: auto auto 50px auto;
+}
+.section-ship .container .block-title h2, .section-accommodation .container .accommodation-title h2, .section-lake-slider .container .lake-title h2, .section-causes .container .causes-title h2, .section-recreation .container .recreation-title h2{
+  font-size: 28px;
+}
+.section-recreation .container .recreation-block .pict-recreation {
+    text-align: center;
+    margin: 0 auto;
+    }
+    .section-recreation .container .recreation-block .name-recreation, .name-sermione{
+      width: 250px;
+      margin-bottom: 0 auto;
+      text-align: center;
+    }
+    .section-collage .container .foto-collage .foto-sity, .foto-museum, .foto-term, .foto-relation, .foto-vino, .foto-shopping{
+      margin: 0 auto;
+    text-align: center;
+    }
+        .section-collage .container .foto-collage  .foto-relation{
+      margin: 0 auto;
+    text-align: center;
+    }
+            .section-collage .container .foto-collage  .foto-vino{
+      margin: 0 auto;
+    text-align: center;
+    }
+    .section-collage .container .foto-collage .foto-sity, .foto-relation, .foto-vino, .foto-shopping, .foto-term{
+      margin-bottom: 30px;
+    }
+        .section-collage .container .foto-collage  .foto-relation{
+      margin-bottom: 30px;
+    }
+            .section-collage .container .foto-collage  .foto-vino{
+      margin-bottom: 30px;
+    }
+    .section-causes{
+      background-size: cover;
+    }
+    .section-accommodation .container .sec-hostel .foto-hostel img{
+      width: 100%;
+    }
+    .questions img{
+      max-width: 100%;
+    }
+    .section-recreation .container .recreation-block{
+    width: 275px;
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 14px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    }
+      .section-causes .causes-picture .causes-block .causes-block-title h2, .section-causes .causes-picture .causes-block{
+    height: auto;
+  }
+    .section-collage .container .foto-collage .foto-eat {
+    margin-bottom: 30px;
+}
+.slider-section {
+    max-width: 635px;
+}
+.arrow-gr .owl-nav .owl-prev {
+    left: 15%;
+}
+.arrow-gr .owl-nav .owl-next {
+    right: 95px;
+}
+.slider-section{
+  background: inherit;
+}
+  
+  .section-collage .container .foto-collage .foto-sity img {
+    height: 425px;
+    }
+    .section-collage .container .foto-collage .information-foto-1, .information-foto{
+          width: 95%;
+              margin-top: -65px;
+    }
+
+  .section-causes .container .causes-title h2 {
+    margin: 40px auto 25px auto;
+  }
+  footer .section-footer .container .cosial-icon .icon {
+    display: flex;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+  .section-like-garda {
+    background-image: url(../img/index/block13/backg3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+    footer .section-footer .container .cosial-icon h2 {
+    margin-bottom: 20px;
+  }
+.section-menu .menu-upper .state_form .form-group .default-mobile{
+  display: none;
+  opacity: 0;
+}
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 640px) {
+    .menu_state_open{
+    margin-top: -33px;
+  }
+  .default-mobile {
+
+    right: 30px;
+  }
+  .main-ten .interest-info {
+    width: 283px !important;
+}
+      .section-main .container .row .main-info img{
+      margin-left: 0;
+    }
+  .in-f{
+width: 40%;
+  }
+  .social-f{
+    width: 60%;
+  }
+  .section-footer .container .cosial-icon h2 {
+    font-size: 22px;
+  }
+    .year {
+float: none;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .video-play {
+    margin-top: 0;
+    height: 142px;
+    width: 400px;
+    height: 220px;
+    opacity: 1;
+    z-index: 444;
+  }
+
+  .back-green{
+    display: none;
+  }
+  .section-main{
+  height: auto;
+}
+  .section-causes .causes-picture .causes-block .causes-block-title:before{
+    left: 15px;
+  }
+  .section-causes .causes-picture .causes-block .causes-block-title:after{
+        left: 34px;
+  }
+    .container-fluid, .row-flex{
+    height: auto !important;
+  }
+  .section-causes .causes-picture .causes-block .causes-block-title {
+    margin: 30px 20px 45px 10px;
+}
+.section-information {
+    margin-top: -360px;
+}
+  .section-main .container .row .main-info {
+    width: 350px;
+  }
+    .main-title{
+    display: none;
+  }
+        .section-main .section-mountains{
+      display: none;
+    }
+
+    .section-main .container .row .main-info{
+      margin-top: 260px;
+    }
+      .section-main .section-mountains{
+      display: none;
+    }
+  .section-footer{
+    margin-top: -343px;
+  }
+  .developer {
+    margin-top: 25px;
+    margin-bottom: 30px;
+float: none;
+    width: 250px;
+    margin: 0 auto;
+    margin-top: 15px;
+    float: none;
+  }
+    .section-menu .menu-upper .state_form .form-group input{
+        left: -160px;
+  }
+  .section-menu .menu-upper .state_form .form-group .default {
+    left: 117px;
+}
+  .section-menu .menu-upper {
+    height: 91px;
+}
+  .section-map .container .block-title {
+    width: 455px;
+    margin: auto auto 25px auto;
+}
+    .section-collage .container .foto-collage .foto-sity{
+    text-align: center;
+  }
+  .section-collage{
+
+    } .container .foto-collage .foto-museum, .section-collage .container .foto-collage .foto-shopping, .section-collage .container .foto-collage .foto-term, .section-collage .container .foto-collage .foto-relation, .section-collage .container .foto-collage .foto-vino, .section-collage .container .foto-collage .foto-eat{
+      text-align: center;
+  }
+  .section-collage .container .foto-collage .foto-term, .section-collage .container .foto-collage .foto-shopping, .section-collage .container .foto-collage .foto-relation, .section-collage .container .foto-collage .foto-vino, .section-collage .container .foto-collage .foto-eat{
+    margin-bottom: 30px;
+  }
+  .section-collage .container .foto-collage .foto-shopping {
+    margin-top: 0;}
+.section-collage .container .foto-collage{
+  margin-bottom: 0;
+}
+    .section-collage .container .foto-collage .foto-shopping{
+    margin-top: 0;
+  }
+    .questions img{
+    max-width: 100%;
+  }
+      .section-main {
+        background-image: url(../img/index/block1/picture-garda-mob.png);
+    background-repeat: no-repeat;
+    background-position: center;
+   background-size: cover;
+    position: relative;
+    z-index: 1;
+}
+.main-title{
+  display: none;
+}
+    .section-main .section-mountains{
+        display: none;
+    }
+    .section-main .container .row .main-info{
+    margin-top: -330px;
+    }
+  .section-menu .menu-upper {
+    background: #598cff;
+    height: 45px;
+}
+  .section-accommodation{
+  background: inherit;
+}
+.section-footer .container .footer-logo {
+    
+        margin: 0 auto;
+        margin-top: 70px;
+    text-align: center;
+}
+.footer-info {
+    width: 200px;
+    margin: 0 auto;
+        margin-top: 15px;
+        display: block;
+        
+}
+    .questions img{
+      max-width: 100%;
+    }
+    .section-main .section-mountains{
+  display: none;
+}
+  .section-causes .causes-picture .causes-block .causes-block-title h2, .section-causes .causes-picture .causes-block{
+    height: auto;
+  }
+    .section-collage .container .foto-collage .foto-eat {
+    margin-bottom: 30px;
+}
+.slider-section {
+    max-width: 480px;
+}
+.arrow-gr .owl-nav .owl-prev {
+    left: 15%;
+}
+.arrow-gr .owl-nav .owl-next {
+    right: 73px;
+}
+.slider-section{
+  background: inherit;
+}
+.section-ship .questions p {
+    width: 380px;
+  }
+  .section-lake-slider .container .lake-title h2 {
+    margin: 70px auto 25px auto;
+  }
+  .section-collage .container .foto-collage .foto-sity img {
+    height: 410px;
+    }
+    .section-collage .container .foto-collage .information-foto-1, .information-foto{
+          width: 97%;
+              margin-top: -60px;
+    }
+    .foto-term .information-foto, .foto-eat .information-foto {
+    margin-top: -34px;
+}
+   .section-collage .container .foto-collage .foto-vino .information-foto{
+   margin-top: -34px;
+}
+
+    .section-collage .container .foto-collage .information-foto-1 p, .section-collage .container .foto-collage .information-foto p {
+    font-size: 16px;
+  }
+  .section-causes .container .causes-title h2 {
+    margin: 40px auto 25px auto;
+  }
+  .section-menu .menu-upper {
+    background: #598cff;
+    height: 88px;
+}
+footer .section-footer .container .cosial-icon .icon .google, footer .section-footer .container .cosial-icon .icon .facebook, footer .section-footer .container .cosial-icon .icon .instagram, footer .section-footer .container .cosial-icon .icon .vk, footer .section-footer .container .cosial-icon .icon .youtube, footer .section-footer .container .cosial-icon .icon .twitter, footer .section-footer .container .cosial-icon .icon .ok{
+      width: 35px;
+    height: 35px;
+    margin-right: 5px;
+}
+footer .section-footer .container .cosial-icon .icon {
+    display: flex;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 15px;
+}
+  .section-like-garda {
+    background-image: url(../img/index/block13/backg3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+    footer .section-footer .container .footer-logo {
+    margin-top: 20px;
+}
+footer .section-footer .container .cosial-icon h2 {
+    margin-bottom: 20px;}
+
+.section-main .container .row .main-info h2 {
+    font-size: 45px;
+  }
+.section-menu .menu-upper .state_form .form-group .default-mobile{
+  display: none;
+  opacity: 0;
+}
+.section-map {
+    min-height: 200px;
+}
+.section-collage .container .foto-collage .foto-sity, .section-collage .container .foto-collage .foto-sity img{
+  height: 300px;
+}
+    #js-popup-call{
+    width: 480px;
+  }
+      .menu__icon {
+        margin-top: -39px;
+    padding-left: 10px;
+    height: 30px;
+  }
+  .menu-closes{
+    margin-top: 65px;
+  }
+}
+
+
+
+@media (max-width: 600px) {
+  .menu-closes{
+    margin-top: 0;
+  }
+}
+
+
+
+
+
+
+
+
+
+@media (max-width: 480px) {
+  .section-collage .container .foto-collage .foto-eat {
+   padding-left: 15px !important; 
+  }
+  .menu_state_open{
+    margin-top: -33px;
+  }
+  .section-main{
+    margin-bottom: 0;
+  }
+  .main-ten .block-picture {
+    width: auto;
+  }
+  .main-ten .interest-info{
+    width: 261px !important;
+  }
+      .section-main .container .row .main-info img{
+      margin-left: 0;
+    }
+  .in-f{
+    width: 100%;
+  }
+    .logo-f{
+width: 100%;
+  }
+  .social-f{
+    width: 100%;
+  }
+    .section-collage .container .foto-collage .foto-vino{
+    width: auto;
+  }
+  .section-map .container .block-picture {
+    margin: 20px auto 20px auto;
+  }
+  .section-map .container .map-button, .section-map .container .map-button a{
+        width: 200px;
+  }
+  .section-like-garda .questions-button a, .section-like-garda .questions-button{
+    width: 200px;
+  }
+  .menu__icon span:nth-child(1) {
+    top: 7px;
+}
+.menu__icon span:nth-child(2), .menu__icon span:nth-child(3) {
+    top: 13px;
+}
+.section-ship{
+  margin-top: -40px;
+}
+.menu__icon span:nth-child(4) {
+    top: 18px;
+}
+    #js-popup-call{
+    width: 300px;
+  }
+  #js-popup-call form input, #js-popup-call form textarea{
+        width: 250px;
+  }
+
+#js-popup-call .call-title p {
+    width: 250px;
+  }
+  #js-popup-call .call-title h2 {
+    margin: 15px auto 15px auto;
+  }
+  .form-call-popup, .form-call-popup button{
+    width: 240px;
+  }
+    .year {
+float: none;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .menu__icon {
+    height: 30px;
+}
+  .section-main{
+  height: auto;
+}
+.section-collage .container .foto-collage .foto-sity, .section-collage .container .foto-collage .foto-sity img{
+  height: 300px;
+}
+  .section-map {
+        height: 220px;
+}
+.section-map .container .map-button a{
+  font-size: 15px;
+}
+  .section-causes .causes-picture .causes-block .causes-block-title:before{
+    left: 15px;
+  }
+  .section-causes .causes-picture .causes-block .causes-block-title:after{
+        left: 34px;
+  }
+    .container-fluid, .row-flex{
+    height: auto !important;
+  }
+  .section-causes .causes-picture .causes-block .causes-block-title {
+    margin: 30px 20px 45px 10px;
+}
+
+  .section-menu .menu-upper .search .form-group .default-mobile {
+    opacity: 1;
+    margin-top: -47px;
+    display: block;
+}
+  .section-information {
+    margin-top: -315px;
+}
+
+.section-information .container .waves img {
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+.section-information .container .block-info p {
+    margin: 40px 10px;
+  }
+  .section-information .container .block-info {
+    margin-bottom: 30px;
+}
+.section-main .container .row .main-info img{
+  margin-bottom: 0;
+}
+.section-information .container .waves img {
+    padding-top: 270px;
+}
+    .main-title{
+    display: none;
+  }
+        .section-main .section-mountains{
+      display: none;
+    }
+
+    .section-main .container .row .main-info{
+      margin-top: 260px;
+    }
+      .section-main .section-mountains{
+      display: none;
+    }
+  footer .section-footer .container .footer-logo {
+    margin-top: 20px;
+}
+footer .section-footer .container .cosial-icon h2 {
+    margin-bottom: 20px;}
+  .section-main .container .row .main-info {
+    width: 250px;
+  }
+    .year {
+float: none;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .developer {
+    margin-top: 25px;
+    margin-bottom: 30px;
+float: none;
+    width: 250px;
+    margin: 0 auto;
+    margin-top: 15px;
+    float: none;
+  }
+  .section-menu .menu-upper .state_form .form-group input {
+    width: 200px;
+  }
+  .section-menu .menu-upper .state_form .form-group input {
+    height: 40px;
+    margin-top: 17px;
+    left: -110px;
+  }
+  .logo-mobile img {
+    max-width: 125%;
+    margin-top: 10px;
+    height: 55px;
+}
+.section-menu .menu-upper .state_form .form-group .default {
+    height: 42px;
+    left: 75px;
+    width: 40px;
+    margin-top: 16px;
+    }
+    .menu__icon {
+    border-left: 1px solid #fff;
+  }
+  .default-button {
+    margin-top: -48px;
+}
+  .section-menu .menu-upper {
+    height: 91px;
+}
+.section-menu .menu-upper {
+    background: #598cff;
+    height: 74px;
+}
+    .section-collage .container .foto-collage .foto-shopping{
+    margin-top: 0;
+  }
+  .section-collage .container .foto-collage .foto-eat {
+    margin-bottom: 30px;
+}
+    .questions img{
+    max-width: 100%;
+  }
+      .section-main {
+      background-image: url(../img/index/block1/picture-garda-mob.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+}
+.main-title{
+  display: none;
+}
+    .section-main .section-mountains{
+        display: none;
+    }
+    .section-main .container .row .main-info{
+      margin-top: -290px;
+    }
+  .section-accommodation{
+  background: inherit;
+}
+ .section-footer .container .footer-logo {
+    
+        margin: 0 auto;
+        margin-top: 70px;
+    text-align: center;
+}
+    .questions img{
+      max-width: 100%;
+    }
+.footer-info {
+width: 175px;
+    margin: 0 auto;
+    margin-top: 15px;
+    float: none;
+    display: block;
+}
+.section-play .container .play-but a, .section-play .container .play-but{
+      width: 240px;
+    height: 40px;
+        font-size: 22px;
+}
+.section-footer {
+    margin-top: -474px;
+}
+.section-footer .container .cosial-icon h2{
+  font-size: 23px;
+}
+.section-ship .container .block-title h2, .section-accommodation .container .accommodation-title h2, .section-lake-slider .container .lake-title h2, .section-causes .container .causes-title h2, .section-recreation .container .recreation-title h2{
+  font-size: 23px;
+}
+.section-accommodation .container .hostel-button a, .section-accommodation .container .hostel-button, .section-ship .container .hostel-button, .section-ship .container .hostel-button a{
+        width: 240px;
+    height: 40px;
+        font-size: 14px;
+}
+.section-main .section-mountains{
+  display: none;
+}
+.section-main .container .row .main-info h2{
+  font-size: 30px;
+}
+.section-play .container .play-but:before{
+      left: 90px;
+}
+.section-play .container .play-but a{
+  padding: 8px;
+}
+.section-recreation .container .recreation-block{
+    width: 275px;
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 14px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+.section-recreation .container .recreation-block .name-recreation{
+    width: 255px;
+  margin-left: 10px;
+  margin-right: 10px;
+      font-size: 14px;
+}
+.section-map .container .block-title{
+  width: 250px;
+}
+.section-map .container .block-title h2 {
+    font-size: 16px;
+    }
+    .section-collage .container .foto-collage {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .section-causes .causes-picture .causes-block .causes-block-title h2, .section-causes .causes-picture .causes-block{
+    height: auto;
+  }
+  .section-lake-slider .container .lake-title h2, .section-accommodation .container .accommodation-title h2 {
+    margin: 40px auto 25px auto;
+  }
+  .section-ship .questions p {
+    width: auto;
+    font-size: 18px;
+  }
+  .year{
+    text-align: center;
+    float: none;
+  }
+  .slider-section {
+    max-width: 100%;
+}
+.arrow-gr .owl-nav .owl-prev {
+    left: 2%;
+}
+.arrow-gr .owl-nav .owl-next {
+    right: 3px;
+}
+.section-accommodation .container .hostel-button {
+    margin: 0 auto 40px auto;
+    }
+.slider-section{
+  background: inherit;
+}
+.section-collage .container .foto-collage .foto-sity img {
+    height: 100%;
+    }
+    .section-collage .container .foto-collage .information-foto-1, .information-foto{
+          width: 95%;
+              margin-top: -65px;
+    }
+    .section-collage .container .foto-collage .information-foto-1 p {
+    font-size: 16px;
+  }
+    .section-causes .container .causes-title h2 {
+    margin: 40px auto 25px auto;
+  }
+    .section-like-garda {
+    background-image: url(../img/index/block13/backg3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+    .search-open input {
+    width: 170px;
+    height: 30px;
+    margin-top: 2px;
+}
+.seach-mobile form {
+    width: 200px;
+    margin: 0 auto;
+}
+.search-open button {
+    opacity: 1;
+    position: absolute;
+    margin-top: 2px;
+    height: 30px;
+    width: 30px;
+/*    background-image: url(../img/header/search2.svg);
+    background-repeat: no-repeat;
+    background-position: center;*/
+    z-index: 666;
+    border: inherit;
+}
+.section-menu .menu-upper .state_form .form-group .default-mobile{
+  display: none;
+  opacity: 0;
+}
+.section-main{
+  height: auto;
+}
+.section-information .container .waves {
+    margin-top: -290px;
+}
+.section-information {
+    margin-top: 0;
+}
+.main-info{
+  width: 250px;
+}
+.default-mobile {
+    position: absolute;
+    right: 45px;
+    }
+    .section-like-garda .questions-button a{
+      font-size: 14px;
+    }
+
+.section-ship .container .hostel-button {
+    margin: 0 auto 10px auto;
+        z-index: 666;
+    position: relative;
+  }
+
+}
+
+
+
+
+
+@media (max-width: 450px){
+    .year {
+float: none;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 10px;
+  }
+    .video-play {
+    margin-top: 0;
+width: 300px;
+    height: 150px;
+    opacity: 1;
+    z-index: 444;
+  }
+      .section-main .container .row .main-info{
+      margin-top: -220px;
+    }
+
+  .back-green{
+    display: none;
+  }
+  .section-main{
+  height: auto;
+}
+  .section-causes .causes-picture .causes-block .causes-block-title:before{
+    left: 15px;
+  }
+  .section-causes .causes-picture .causes-block .causes-block-title:after{
+        left: 34px;
+  }
+
+    .container-fluid, .row-flex{
+    height: auto !important;
+  }
+  .section-causes .causes-picture .causes-block .causes-block-title {
+    margin: 30px 20px 45px 10px;
+}
+
+  .section-menu .menu-upper .search .form-group .default-mobile {
+    opacity: 1;
+    margin-top: -48px;
+    display: block;
+}
+.section-information {
+    margin-top: 0;
+}
+.search-open input {
+    width: 170px;
+    height: 30px;
+    margin-top: 2px;
+}
+.seach-mobile form {
+    width: 200px;
+    margin: 0 auto;
+}
+.search-open button {
+    opacity: 1;
+    position: absolute;
+    margin-top: 2px;
+    height: 30px;
+    width: 30px;
+/*    background-image: url(../img/header/search2.svg);
+    background-repeat: no-repeat;
+    background-position: center;*/
+    z-index: 666;
+    border: inherit;
+}
+.section-menu .menu-upper .state_form .form-group .default-mobile{
+  display: none;
+  opacity: 0;
+}
+.seach-mobile form {
+        padding-top: 13px;
+}
+}
+
+@media (max-width: 380px){
+        .section-main .container .row .main-info{
+      margin-top: -200px;
+    }
+
+    .year {
+float: none;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 10px;
+  }
+      .video-play {
+    margin-top: 0;
+width: 300px;
+    height: 150px;
+    opacity: 1;
+    z-index: 444;
+  }
+
+  .back-green{
+    display: none;
+  }
+  .section-main{
+  height: auto;
+}
+    .section-causes .causes-picture .causes-block .causes-block-title:before{
+    left: 15px;
+  }
+  .section-causes .causes-picture .causes-block .causes-block-title:after{
+        left: 34px;
+  }
+
+    .container-fluid, .row-flex{
+    height: auto !important;
+  }
+  .section-causes .causes-picture .causes-block .causes-block-title {
+    margin: 30px 20px 45px 10px;
+}
+
+  .section-menu .menu-upper .search .form-group .default-mobile {
+    opacity: 1;
+    margin-top: -47px;
+    display: block;
+}
+.section-information {
+    margin-top: 0;
+}
+.search-open input {
+    width: 170px;
+    height: 30px;
+    margin-top: 2px;
+    background: #d5e0fa;
+}
+.seach-mobile form {
+    width: 200px;
+    margin: 0 auto;
+}
+.search-open button {
+    opacity: 1;
+    position: absolute;
+    margin-top: 2px;
+    height: 30px;
+    width: 30px;
+/*    background-image: url(../img/header/search2.svg);
+    background-repeat: no-repeat;
+    background-position: center;*/
+    z-index: 666;
+    border: inherit;
+}
+.section-menu .menu-upper .state_form .form-group .default-mobile{
+  display: none;
+  opacity: 0;
+}
+.seach-mobile form {
+        padding-top: 13px;
+}
+}
+
+@media (max-width: 350px){
+        .section-main .container .row .main-info{
+      margin-top: -170px;
+    }
+
+    .year {
+float: none;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 10px;
+  }
+      .video-play {
+    margin-top: 0;
+width: 270px;
+    height: 150px;
+    opacity: 1;
+    z-index: 444;
+  }
+
+  .back-green{
+    display: none;
+  }
+  .section-main{
+  height: auto;
+}
+    .section-causes .causes-picture .causes-block .causes-block-title:before{
+    left: 15px;
+  }
+  .section-causes .causes-picture .causes-block .causes-block-title:after{
+        left: 34px;
+  }
+    .container-fluid, .row-flex{
+    height: auto !important;
+  }
+  .section-causes .causes-picture .causes-block .causes-block-title {
+    margin: 30px 20px 45px 10px;
+}
+  .section-menu .menu-upper .search .form-group .default-mobile {
+    opacity: 1;
+    margin-top: -45px;
+    display: block;
+}
+.section-information {
+    margin-top: 0;
+}
+.search-open input {
+    width: 170px;
+    height: 30px;
+    margin-top: 2px;
+}
+.seach-mobile form {
+    width: 200px;
+    margin: 0 auto;
+        padding-top: 13px;
+}
+.search-open button {
+    opacity: 1;
+    position: absolute;
+    margin-top: 2px;
+    height: 30px;
+    width: 30px;
+/*    background-image: url(../img/header/search2.svg);
+    background-repeat: no-repeat;
+    background-position: center;*/
+    z-index: 666;
+    border: inherit;
+}
+.section-menu .menu-upper .state_form .form-group .default-mobile{
+  display: none;
+  opacity: 0;
+}
+.left-pad .information-foto-1{
+      width: 90% !important;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
